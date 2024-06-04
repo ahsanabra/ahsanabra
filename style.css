@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Reddit+Mono:wght@200..900&display=swap");
+body {
+  font-family: "Reddit Mono", monospace;
+  background-color: black;
+  color: white;
+}
+
+.judul {
+  border: 5px solid blue;
+}
+.senin {
+  border: 3px solid orangered;
+}
+.selasa {
+  border: 3px solid pink;
+}
+.rabu {
+  border: 3px solid yellow;
+}
+.kamis {
+  border: 3px solid cyan;
+}
+.jumat {
+  border: 3px solid red;
+}
